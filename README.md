@@ -42,11 +42,11 @@ O relatório detalhado fornecido como fonte ilustra a estrutura de dados que o B
 ---
 
 ## 5. Acesso ao Caderno Interativo (NotebookLM)
-* **Link do Notebook:** [Cole aqui o link que você copiou do NotebookLM]
+* **Link do Notebook:** https://notebooklm.google.com/notebook/9d5df78d-8c92-4c17-bd50-b10066b866a9
 
 ---
 
 ## 6. Considerações Finais
 O Sistema de Informações de Crédito (SCR) do Banco Central transcende a mera consulta de débitos, configurando-se como um instrumento essencial de governança pessoal e transparência sistêmica. Ao consolidar o histórico financeiro do cidadão em âmbito nacional, a ferramenta promove uma gestão de passivos mais consciente, mitiga riscos de superendividamento e fortalece a segurança contra fraudes. Integrar o estudo dessa base regulatória consolida uma visão analítica indispensável para a tomada de decisões no ecossistema financeiro atual.
 
-https://notebooklm.google.com/notebook/9d5df78d-8c92-4c17-bd50-b10066b866a9
+
