@@ -1,5 +1,7 @@
 ## Documentação Oficial: Sistema de Informações de Crédito (SCR) e Governança Financeira
 
+![Branch Protection](https://img.shields.io/badge/branch%20protection-active-success)
+
 Este documento consolida as diretrizes oficiais do Banco Central (BCB), o funcionamento prático do SCR e sua aplicação estratégica na gestão de passivos e no desenvolvimento de carreira.
 
 ---
