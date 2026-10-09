@@ -79,4 +79,4 @@ Engenharia Química | Garantia da Qualidade | Governança 4.0
 - LinkedIn: [linkedin.com/in/rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
 - GitHub: [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
 - Medium: [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
-- DIO: [web.dio.me/users/ornelas_tozato](https://web.dio.me/users/ornelas_tozato)
+- Lovable: [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
